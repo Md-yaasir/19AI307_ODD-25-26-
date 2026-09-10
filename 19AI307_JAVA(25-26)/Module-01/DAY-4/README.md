@@ -19,7 +19,7 @@ To write a Java program that prints all elements in an array greater than a give
 
 ## PROGRAM:
 
-### Program to Implement Variables and Operators Using Java
+### Program to Implement Arrays Using Java
 
 **Developed by:** MOHAMMED YAASIR Y
 
